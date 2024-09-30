@@ -1,4 +1,4 @@
-# Google-Data-Analytics-Case-Study-How-Does-A-Bike-Share-Navigate-Speedy-Success-
+# Google Data Analytics Case Study How Does A Bike Share Navigate Speedy Success
 Case Study from Google Data Analytics Certification
 ## Introduction
 This case study is part of the capstone project for the Google Data Analytics course on Coursera. The task involves using available data to gain fresh insights, make data-driven choices, and solve business challenges. The scenario focuses on Cyclistic, a fictional bike-sharing company based in Chicago.
